@@ -9,7 +9,7 @@ Les fichiers utilisés :
 - `yellow_tripdata_2025-02.parquet`
 - `yellow_tripdata_2025-03.parquet`
 
-Ils sont disponibles aux adresses fournies par la TLC : `https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page` et doivent être placés dans le répertoire `/home/angelo-btma/ETL parquet/`.
+Ils sont disponibles aux adresses fournies par la TLC : `https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page` et ont été placés dans mon répertoire `/home/angelo-btma/ETL parquet/`.
 
 ## Description du pipeline
 
